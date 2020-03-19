@@ -1,35 +1,32 @@
 {
-  "embeds": [
-    {
-      "title": "Thiradus Discord Server",
-      "url": "https://discord.gg/6bxEpPU",
-      "color": 164239,
-      "fields": [
-        {
-          "name": "Information",
-          "value": "This is the official Discord Server of [Thiradus](https://thiradus.com/), a United States based software company.\n\nThiradus specializes, among other services, in providing impeccable game server experiences like no other."
-        },
-        {
-          "name": "Support",
-          "value": "Need assistance? Mention <@&689516533730377737> or <@&689515658676797480> in <#690000756514095123>.",
-          "inline": true
-        },
-        {
-          "name": "Rules",
-          "value": "Be sure to read our <#689999967351603208>!",
-          "inline": true
-        }
-      ],
-      "author": {
-        "name": "Thiradus",
-        "url": "https://thiradus.com/",
-        "icon_url": "https://raw.githubusercontent.com/Thiradus/Branding/master/Graphics/Logo/Logo.png"
-      },
-      "footer": {
-        "text": "Information",
-        "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Info_icon-72a7cf.svg/768px-Info_icon-72a7cf.svg.png"
-      },
-      "timestamp": "2020-03-19T01:25:00.000Z"
-    }
-  ]
+	"embeds": [{
+		"title": "Thiradus Discord Server",
+		"url": "https://discord.gg/6bxEpPU",
+		"color": 164239,
+		"fields": [{
+				"name": "Information",
+				"value": "This is the official Discord Server of [Thiradus](https://thiradus.com/), a United States based software company.\n\nThiradus specializes, among other services, in providing impeccable game server experiences like no other."
+			},
+			{
+				"name": "Support",
+				"value": "Need assistance? Mention <@&689516533730377737> or <@&689515658676797480> in <#690000756514095123>.",
+				"inline": true
+			},
+			{
+				"name": "Rules",
+				"value": "Be sure to read our <#689999967351603208>!",
+				"inline": true
+			}
+		],
+		"author": {
+			"name": "Thiradus",
+			"url": "https://thiradus.com/",
+			"icon_url": "https://raw.githubusercontent.com/Thiradus/Branding/master/Graphics/Logo/Logo.png"
+		},
+		"footer": {
+			"text": "Information",
+			"icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Info_icon-72a7cf.svg/768px-Info_icon-72a7cf.svg.png"
+		},
+		"timestamp": "2020-03-19T01:25:00.000Z"
+	}]
 }
