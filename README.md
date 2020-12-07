@@ -14,4 +14,4 @@ Send a `HTTP POST` request to the webhook of the desired channel with the JSON P
 
 ## License
 
-This project is licensed under the [MIT License](./LICENSE.md) &copy; 2015-2020 [Thiradus](https://github.com/Thiradus/).
+This repository is licensed under the [MIT License](./LICENSE.md) &copy; 2015-2020 [Thiradus](https://github.com/Thiradus/).
